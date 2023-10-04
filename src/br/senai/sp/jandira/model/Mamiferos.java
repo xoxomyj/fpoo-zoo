@@ -1,5 +1,5 @@
 package br.senai.sp.jandira.model;
 
-public class Saude {
+public class Mamiferos {
 
 }
